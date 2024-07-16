@@ -1,0 +1,13 @@
+# WordPress
+wp-content/uploads/
+wp-config.php
+.htaccess
+
+# OS Files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
